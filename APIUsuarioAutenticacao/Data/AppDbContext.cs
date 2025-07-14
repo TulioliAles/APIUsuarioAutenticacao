@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using APIUsuarioAutenticacao.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace APIUsuarioAutenticacao.Data
 {
@@ -7,5 +8,7 @@ namespace APIUsuarioAutenticacao.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) 
         {            
         }
+
+        public DbSet<UsuarioModel> Usuarios { get; set; }
     }
 }

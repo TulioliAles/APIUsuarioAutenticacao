@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Program.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Program.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Program.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:53:13.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:38:40.189Z",
-              "EditorCaption": ""
             }
           ]
         }

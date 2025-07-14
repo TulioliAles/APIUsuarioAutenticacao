@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\migrations\\20250708185814_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\migrations\\20250708185814_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250708185814_createDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Migrations\\20250708185814_createDatabase.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Migrations\\20250708185814_createDatabase.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Migrations\\20250708185814_createDatabase.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Migrations\\20250708185814_createDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:58:14.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Program.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Program.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Program.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "APIUsuarioAutenticacao\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:53:13.038Z",
+              "WhenOpened": "2025-07-14T23:38:43.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "APIUsuarioAutenticacao\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:38:40.189Z",
+              "WhenOpened": "2025-07-14T23:20:23.25Z",
               "EditorCaption": ""
             }
           ]

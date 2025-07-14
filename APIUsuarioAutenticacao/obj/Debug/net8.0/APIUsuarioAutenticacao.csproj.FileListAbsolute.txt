@@ -138,3 +138,4 @@ C:\Users\219747\projetos\APIUsuarioAutenticacao\APIUsuarioAutenticacao\obj\Debug
 C:\Users\219747\projetos\APIUsuarioAutenticacao\APIUsuarioAutenticacao\obj\Debug\net8.0\APIUsuarioAutenticacao.pdb
 C:\Users\219747\projetos\APIUsuarioAutenticacao\APIUsuarioAutenticacao\obj\Debug\net8.0\APIUsuarioAutenticacao.genruntimeconfig.cache
 C:\Users\219747\projetos\APIUsuarioAutenticacao\APIUsuarioAutenticacao\obj\Debug\net8.0\ref\APIUsuarioAutenticacao.dll
+C:\Users\219747\projetos\APIUsuarioAutenticacao\APIUsuarioAutenticacao\obj\Debug\net8.0\APIUsuarioAutenticacao.sourcelink.json
