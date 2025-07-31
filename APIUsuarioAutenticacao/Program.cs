@@ -1,4 +1,5 @@
 using APIUsuarioAutenticacao.Data;
+using APIUsuarioAutenticacao.Services.Senha;
 using APIUsuarioAutenticacao.Services.Usuario;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IUsuarioInterface, UsuarioService>();
+builder.Services.AddScoped<ISenhaInterface, SenhaService>();
 
 builder.Services.AddDbContext<AppDbContext>(options => 
 {

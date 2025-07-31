@@ -8,7 +8,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "usuario",
+        "Name": "usuarioCriacaoDto",
         "Type": "APIUsuarioAutenticacao.Dto.Usuario.UsuarioCriacaoDto",
         "IsRequired": true
       }
