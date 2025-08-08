@@ -1,4 +1,5 @@
 ﻿using APIUsuarioAutenticacao.Data;
+using APIUsuarioAutenticacao.Dto.Login;
 using APIUsuarioAutenticacao.Dto.Usuario;
 using APIUsuarioAutenticacao.Models;
 using APIUsuarioAutenticacao.Services.Senha;
@@ -140,6 +141,48 @@ namespace APIUsuarioAutenticacao.Services.Usuario
                 return response;
             }
         }
+
+        public async Task<ResponseModel<UsuarioModel>> Login(UsuarioLoginDto usuarioLoginDto)
+        {
+            ResponseModel<UsuarioModel> response = new ResponseModel<UsuarioModel>();
+
+            try
+            {
+                var usuarioBanco = await _context.Usuarios.FirstOrDefaultAsync(x => x.Email == usuarioLoginDto.Email);
+
+                if (usuarioBanco == null)
+                {
+                    response.Mensagem = "Usuário não localizado";
+                    response.Status = false;
+                    return response;
+                }
+
+                if(_senhaInterface.VerificaSenhaHash(usuarioLoginDto.Email, usuarioBanco.SenhaHash, usuarioBanco.SenhaSalt))
+                {
+                    response.Mensagem = "Credenciais inválidas";
+                    response.Status = false;
+                    return response;
+                }
+
+                var token = _senhaInterface.CriarToken(usuarioBanco);
+
+                usuarioBanco.Token = token;
+
+                _context.Usuarios.Update(usuarioBanco);
+                await _context.SaveChangesAsync();
+
+                response.Dados = usuarioBanco;
+                response.Mensagem = "Usuário logado com sucesso.";
+                return response;
+            }
+            catch (Exception ex)
+            {
+                response.Mensagem = ex.Message;
+                response.Status = false;
+                return response;
+            }
+        }
+
 
         public async Task<ResponseModel<UsuarioModel>> RemoverUsuario(int id)
         {
