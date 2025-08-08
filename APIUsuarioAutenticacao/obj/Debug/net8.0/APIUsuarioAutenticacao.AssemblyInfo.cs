@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIUsuarioAutenticacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac3a5d23e14aa95bd74c858bb1abf75676c1c5af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+398b094f2423e2221d15c0f875c3ea97b0768975")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIUsuarioAutenticacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIUsuarioAutenticacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

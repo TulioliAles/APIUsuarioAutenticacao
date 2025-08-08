@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\services\\senha\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\services\\senha\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\services\\senha\\isenhainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\services\\senha\\isenhainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\services\\usuario\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\services\\usuario\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|c:\\users\\219747\\projetos\\apiusuarioautenticacao\\apiusuarioautenticacao\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CF27D0-A513-45A4-9914-C79A9339A502}|APIUsuarioAutenticacao\\APIUsuarioAutenticacao.csproj|solutionrelative:apiusuarioautenticacao\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ISenhaInterface.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Senha\\ISenhaInterface.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Services\\Senha\\ISenhaInterface.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Senha\\ISenhaInterface.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Services\\Senha\\ISenhaInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:38:58.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SenhaService.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Senha\\SenhaService.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Services\\Senha\\SenhaService.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Senha\\SenhaService.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Services\\Senha\\SenhaService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAzwCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:38:59.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "APIUsuarioAutenticacao\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:03:11.49Z",
+              "WhenOpened": "2025-08-08T18:19:51.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Usuario\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Services\\Usuario\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Usuario\\UsuarioService.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Services\\Usuario\\UsuarioService.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAA2wJ8AAAATAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Program.cs",
+              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Program.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Program.cs",
+              "RelativeToolTip": "APIUsuarioAutenticacao\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T20:04:51.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUsuarioInterface.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Usuario\\IUsuarioInterface.cs",
-              "RelativeDocumentMoniker": "APIUsuarioAutenticacao\\Services\\Usuario\\IUsuarioInterface.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\APIUsuarioAutenticacao\\APIUsuarioAutenticacao\\Services\\Usuario\\IUsuarioInterface.cs",
-              "RelativeToolTip": "APIUsuarioAutenticacao\\Services\\Usuario\\IUsuarioInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T19:40:42.396Z",
+              "WhenOpened": "2025-08-08T14:49:56.396Z",
               "EditorCaption": ""
             }
           ]
