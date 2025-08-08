@@ -35,5 +35,12 @@ namespace APIUsuarioAutenticacao.Controllers
             var usuario = await _usuarioInterface.EditarUsuario(usuarioEdicaoDto);
             return Ok(usuario);
         }
+
+        [HttpDelete]
+        public async Task<IActionResult> RemoverUsuario(int id)
+        {
+            var usuario = await _usuarioInterface.RemoverUsuario(id);
+            return Ok(usuario);
+        }
     }
 }
