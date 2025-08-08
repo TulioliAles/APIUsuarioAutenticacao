@@ -27,6 +27,22 @@
   },
   {
     "ContainingType": "APIUsuarioAutenticacao.Controllers.UsuarioController",
+    "Method": "EditarUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioEdicaoDto",
+        "Type": "APIUsuarioAutenticacao.Dto.Usuario.UsuarioEdicaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIUsuarioAutenticacao.Controllers.UsuarioController",
     "Method": "BuscarUsuarioPorId",
     "RelativePath": "api/Usuario/id",
     "HttpMethod": "GET",
